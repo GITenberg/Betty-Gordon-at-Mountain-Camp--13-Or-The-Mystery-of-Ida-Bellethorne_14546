@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '1619'
     url: http://www.gutenberg.org/2009/agents/1619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14546#Betty-Gordon-at-Mountain-Camp--13-Or-The-Mystery-of-Ida-Bellethorne
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-12-31'
 gutenberg_type: Text
